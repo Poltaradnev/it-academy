@@ -1,0 +1,11 @@
+C:\newproject\Преобразование типов\bin\Debug\netcoreapp2.1\Преобразование типов.deps.json
+C:\newproject\Преобразование типов\bin\Debug\netcoreapp2.1\Преобразование типов.runtimeconfig.json
+C:\newproject\Преобразование типов\bin\Debug\netcoreapp2.1\Преобразование типов.runtimeconfig.dev.json
+C:\newproject\Преобразование типов\bin\Debug\netcoreapp2.1\Преобразование типов.dll
+C:\newproject\Преобразование типов\bin\Debug\netcoreapp2.1\Преобразование типов.pdb
+C:\newproject\Преобразование типов\obj\Debug\netcoreapp2.1\Преобразование типов.csprojAssemblyReference.cache
+C:\newproject\Преобразование типов\obj\Debug\netcoreapp2.1\Преобразование типов.csproj.CoreCompileInputs.cache
+C:\newproject\Преобразование типов\obj\Debug\netcoreapp2.1\Преобразование типов.AssemblyInfoInputs.cache
+C:\newproject\Преобразование типов\obj\Debug\netcoreapp2.1\Преобразование типов.AssemblyInfo.cs
+C:\newproject\Преобразование типов\obj\Debug\netcoreapp2.1\Преобразование типов.dll
+C:\newproject\Преобразование типов\obj\Debug\netcoreapp2.1\Преобразование типов.pdb
