@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace hometask3._2
+namespace hometask3._3
 {
     class Program
     {
@@ -13,9 +13,20 @@ namespace hometask3._2
             string b = Console.ReadLine();
             Int32 c = Convert.ToInt32(b);
             Int32 x = c + d;
-            Console.WriteLine("a + b =");
-            Console.WriteLine(x);
+            Console.WriteLine("a + b?");
+            string e = Console.ReadLine();
+            Int32 f = Convert.ToInt32(e);
+            Console.WriteLine(f.Equals(x));
+            if (f < x)
+            {
+                Console.Write("Should be more");
+            }
+            if (f > x)
+            {
+                Console.Write("Should be less");
+            }
+
+
         }
-              
     }
 }
